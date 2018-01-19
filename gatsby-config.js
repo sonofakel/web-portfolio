@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Dimension by HTML5 UP"
+    title: "Charlie Kelson's Web Portfolio",
+    author: "Charlie Kelson",
+    description: "A collection of web stuff from Charlie Kelson"
   },
   pathPrefix: '/',
   plugins: [

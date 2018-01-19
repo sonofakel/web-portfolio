@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension",
-  "description": "Gatsby Starter - Dimension by HTML5 UP",
+  "name": "charlie-kelsons-web-portfolio",
+  "description": "A collection of web stuff from Charlie Kelson",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Charlie Kelson",
   "dependencies": {
     "gatsby": "^1.9.118",
     "gatsby-image": "^1.0.27",
