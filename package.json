@@ -21,7 +21,7 @@
   "license": "MIT",
   "main": "n/a",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "scripts": {
     "dev": "gatsby develop",
